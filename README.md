@@ -7,19 +7,19 @@ A final-year Computer Science student at  Universitatea Babeș-Bolyai (UBB), bas
 - 🌍**Location:** Cluj
 - 💼**Open to work:** Yes
 
-#University projects
+# University projects
 
-##1st Year
+## 1st Year
 
-###1st Semester
+### 1st Semester
 
-###2nd Semester
+### 2nd Semester
 
-##2nd Year
+## 2nd Year
 
-###1st Semester
+### 1st Semester
 
-###2nd Semester
+### 2nd Semester
 <!--
 **BarteS3300/BarteS3300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
