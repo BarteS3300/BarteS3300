@@ -1,6 +1,6 @@
 # Hi, I'm BarteS3300
 
-A final-year Computer Science student at  Universitatea Babeș-Bolyai (UBB), based in Cluj. I'm passionate about technology, coding, and continuous learning. As I approach the completion of my Bachelor's degree, I'm eager to apply my knowledge and skills to real-world projects and collaborations.
+A final-year Computer Science student at  University of Babeș-Bolyai (UBB), based in Cluj. I'm passionate about technology, coding, and continuous learning. As I approach the completion of my Bachelor's degree, I'm eager to apply my knowledge and skills to real-world projects and collaborations.
 
 - 🎓**Education:** Bachelor's Degree in Computer Science, UBB
 - 🏫**University:** Universitatea Babeș-Bolyai
